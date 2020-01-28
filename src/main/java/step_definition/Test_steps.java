@@ -18,7 +18,7 @@ public class Test_steps {
 	}
 
 	@When("User enters UserName and Password")
-	public void user_enters_UserName_and_Password() {System.out.println("User enters UserName and Password ");
+	public void user_enters_UserName_and_Password() {System.out.println("User enters UserName99 and Password ");
 	   
 	}
 
